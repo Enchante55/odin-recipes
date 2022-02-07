@@ -1,3 +1,2 @@
-# odin-recipes
-odin-recipes
+# Odin Recipes Assignment
 It’s time to put all of the HTML knowledge I have been acquiring so far into practice. In this project, I am going to build a basic recipe website.
